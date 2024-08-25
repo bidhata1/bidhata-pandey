@@ -11,9 +11,9 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Bidhata Pandey </span>
             from <span className="purple"> Pokhara, Nepal.</span>
             <br />
-            I am passionate tech graduate always eagar to learn new things
+             As a passionate tech graduate, I am always eager to learn new things. 
             <br />
-            I have completed Bachelor of Computer Engineering from Pokhara University
+            I have completed my Bachelor’s degree in Computer Engineering from Pokhara University.
             
             <br />
             <br />
