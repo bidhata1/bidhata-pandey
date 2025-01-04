@@ -24,15 +24,7 @@ function Home2() {
             A dedicated tech enthusiast from Pokhara, Nepal, holding a Bachelor's degree in Computer Engineering from Pokhara University, 🤷‍♂️
               <br />
               <br />
-              My background includes international experience, such as contributing to the  &nbsp;
-              <i>
-                <b className="purple">WheelScout project  </b> at Darmstadt University in Germany, and hands-on internships in{" "}
-                <b className="purple">
-                web and backend development
-                </b>
-              </i>
-              <br />
-              <br />
+   
               My journey in tech is fueled by a passion for  to 
                <b className="purple"> growth and a dedication</b> to
               <i>
